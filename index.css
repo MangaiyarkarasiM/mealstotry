@@ -1,0 +1,22 @@
+body{
+    margin: 10px;
+    padding: 5px;
+    background-color: aliceblue;
+}
+.dishes{
+    margin: 10px 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card,.inputgroup{
+    margin: 5px 10px;
+    padding: 5px;
+}
+.card-text{
+    padding: 0px;
+    margin: 5px 0px;
+}
+img{
+    width: auto;
+    height: 220px;
+}
